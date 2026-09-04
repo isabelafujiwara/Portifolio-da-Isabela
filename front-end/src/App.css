@@ -1,0 +1,20 @@
+.cardsContainer,.tbrContainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 500px);
+    justify-content: center;
+    gap: 30px;   
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.TBR,.favoritos{
+    font-size: 40px;
+    padding: 20px;
+}
+
+@media (max-width: 768px){
+    .cardsContainer, .tbrContainer{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, 300px);
+    }
+}
