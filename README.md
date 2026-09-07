@@ -1,6 +1,6 @@
-# Portifólio da Isabela
+# Portfólio da Isabela
 
-Olá! Eu sou a Isabela Fujiwara Paulin e esse repositório é um portifólio pessoal de projetos!
+Olá! Eu sou a Isabela Fujiwara Paulin e esse repositório é um portfólio pessoal de projetos!
 
 Claro, eu já fiz muitos projetos ao longo da minha vida, então esses são só alguns que eu selecionei para destacar, como cada um deles teve um grande impacto na minha trajetória!
 
